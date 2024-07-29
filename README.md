@@ -1,4 +1,4 @@
-# Insights #174 demo app
+# Insights #175 demo app
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
